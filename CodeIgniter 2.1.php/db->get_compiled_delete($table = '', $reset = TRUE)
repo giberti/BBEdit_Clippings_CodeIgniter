@@ -1,0 +1,1 @@
+db->get_compiled_delete(#SELSTART#$table = ''#SELEND#, <#$reset = TRUE#>);

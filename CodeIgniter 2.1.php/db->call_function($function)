@@ -1,0 +1,1 @@
+db->call_function(#SELSTART#$function#SELEND#);

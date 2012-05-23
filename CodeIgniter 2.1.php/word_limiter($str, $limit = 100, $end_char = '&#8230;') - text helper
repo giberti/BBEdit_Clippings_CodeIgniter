@@ -1,0 +1,1 @@
+word_limiter(#SELSTART#$str#SELEND#, <#$limit = 100#>, <#$end_char = '&#8230;'#>);

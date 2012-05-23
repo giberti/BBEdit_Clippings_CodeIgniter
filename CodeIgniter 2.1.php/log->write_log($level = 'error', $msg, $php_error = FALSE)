@@ -1,0 +1,1 @@
+log->write_log(#SELSTART#$level = 'error'#SELEND#, <#$msg#>, <#$php_error = FALSE#>);

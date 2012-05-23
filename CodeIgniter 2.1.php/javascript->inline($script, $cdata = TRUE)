@@ -1,0 +1,1 @@
+javascript->inline(#SELSTART#$script#SELEND#, <#$cdata = TRUE#>);

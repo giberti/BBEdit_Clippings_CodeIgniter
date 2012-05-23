@@ -1,0 +1,1 @@
+img(#SELSTART#$src = ''#SELEND#, <#$index_page = FALSE#>);

@@ -1,0 +1,1 @@
+timespan(#SELSTART#$seconds = 1#SELEND#, <#$time = ''#>, <#$units = 7#>);

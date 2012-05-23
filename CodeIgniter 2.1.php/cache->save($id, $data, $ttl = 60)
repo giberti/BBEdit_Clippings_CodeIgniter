@@ -1,0 +1,1 @@
+cache->save(#SELSTART#$id#SELEND#, <#$data#>, <#$ttl = 60#>);

@@ -1,0 +1,1 @@
+jquery->script(#SELSTART#$library_src = ''#SELEND#, <#$relative = FALSE#>);

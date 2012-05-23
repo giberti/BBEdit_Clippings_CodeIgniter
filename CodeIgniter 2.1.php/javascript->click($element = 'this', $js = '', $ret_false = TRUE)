@@ -1,0 +1,1 @@
+javascript->click(#SELSTART#$element = 'this'#SELEND#, <#$js = ''#>, <#$ret_false = TRUE#>);

@@ -1,0 +1,1 @@
+db->compile_binds(#SELSTART#$sql#SELEND#, <#$binds#>);

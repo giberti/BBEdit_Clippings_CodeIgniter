@@ -1,0 +1,1 @@
+upload->is_allowed_filetype(#SELSTART#$ignore_mime = FALSE#SELEND#);

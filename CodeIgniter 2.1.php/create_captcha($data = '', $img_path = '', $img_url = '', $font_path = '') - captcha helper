@@ -1,0 +1,1 @@
+create_captcha(#SELSTART#$data = ''#SELEND#, <#$img_path = ''#>, <#$img_url = ''#>, <#$font_path = ''#>);

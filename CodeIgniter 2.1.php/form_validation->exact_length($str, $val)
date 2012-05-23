@@ -1,0 +1,1 @@
+form_validation->exact_length(#SELSTART#$str#SELEND#, <#$val#>);

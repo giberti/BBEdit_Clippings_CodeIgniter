@@ -1,0 +1,1 @@
+db->select_avg(#SELSTART#$select = ''#SELEND#, <#$alias = ''#>);

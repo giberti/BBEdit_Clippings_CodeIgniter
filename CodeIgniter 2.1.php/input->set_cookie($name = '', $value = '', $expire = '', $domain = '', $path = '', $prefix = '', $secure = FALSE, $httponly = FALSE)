@@ -1,0 +1,1 @@
+input->set_cookie(#SELSTART#$name = ''#SELEND#, <#$value = ''#>, <#$expire = ''#>, <#$domain = ''#>, <#$path = '/'#>, <#$prefix = ''#>, <#$secure = FALSE#>, <#$httponly = FALSE#>);

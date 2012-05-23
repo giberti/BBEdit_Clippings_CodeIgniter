@@ -1,0 +1,1 @@
+lang->load(#SELSTART#$langfile = ''#SELEND#, <#$idiom = ''#>, <#$return = FALSE#>, <#$add_suffix = TRUE#>, <#$alt_path = ''#>);

@@ -1,0 +1,1 @@
+element(#SELSTART#$item#SELEND#, <#$array#>, <#$default = FALSE#>);

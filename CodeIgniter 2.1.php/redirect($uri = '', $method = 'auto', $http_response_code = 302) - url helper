@@ -1,0 +1,1 @@
+redirect(#SELSTART#$uri = ''#SELEND#, <#$method = 'auto'#>, <#$http_response_code = 302#>);

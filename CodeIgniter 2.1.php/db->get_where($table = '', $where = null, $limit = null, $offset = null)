@@ -1,0 +1,1 @@
+db->get_where(#SELSTART#$table = ''#SELEND#, <#$where = null#>, <#$limit = null#>, <#$offset = null#>);

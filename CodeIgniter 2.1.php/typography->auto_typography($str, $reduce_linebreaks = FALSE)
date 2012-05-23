@@ -1,0 +1,1 @@
+typography->auto_typography(#SELSTART#$str#SELEND#, <#$reduce_linebreaks = FALSE#>);

@@ -1,0 +1,1 @@
+table->add_row(#SELSTART#$args = array()#SELEND#);

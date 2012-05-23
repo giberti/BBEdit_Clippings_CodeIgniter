@@ -1,0 +1,1 @@
+ftp->download(#SELSTART#$rempath#SELEND#, <#$locpath#>, <#$mode = 'auto'#>);

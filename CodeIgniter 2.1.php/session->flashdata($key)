@@ -1,0 +1,1 @@
+session->flashdata(#SELSTART#$key#SELEND#);

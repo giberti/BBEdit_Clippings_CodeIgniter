@@ -1,0 +1,1 @@
+utf8->safe_ascii_for_xml(#SELSTART#$str#SELEND#);

@@ -1,0 +1,1 @@
+email->set_wordwrap(#SELSTART#$wordwrap = TRUE#SELEND#);

@@ -1,0 +1,1 @@
+trackback->limit_characters(#SELSTART#$str#SELEND#, <#$n = 500#>, <#$end_char = '&#8230;'#>);

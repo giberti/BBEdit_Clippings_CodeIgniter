@@ -1,0 +1,1 @@
+loader->database(#SELSTART#$params = ''#SELEND#, <#$return = FALSE#>, <#$query_builder = NULL#>);

@@ -1,0 +1,1 @@
+form_validation->is_natural_no_zero(#SELSTART#$str#SELEND#);

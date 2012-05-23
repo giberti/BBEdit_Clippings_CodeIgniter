@@ -1,0 +1,1 @@
+image_lib->display_errors(#SELSTART#$open = '<p>'#SELEND#, <#$close = '</p>'#>);

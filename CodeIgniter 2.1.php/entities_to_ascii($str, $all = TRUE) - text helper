@@ -1,0 +1,1 @@
+entities_to_ascii(#SELSTART#$str#SELEND#, <#$all = TRUE#>);

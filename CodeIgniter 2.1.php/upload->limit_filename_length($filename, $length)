@@ -1,0 +1,1 @@
+upload->limit_filename_length(#SELSTART#$filename#SELEND#, <#$length#>);

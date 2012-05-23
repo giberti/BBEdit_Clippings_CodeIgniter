@@ -1,0 +1,1 @@
+form_checkbox(#SELSTART#$data = ''#SELEND#, <#$value = ''#>, <#$checked = FALSE#>, <#$extra = ''#>);

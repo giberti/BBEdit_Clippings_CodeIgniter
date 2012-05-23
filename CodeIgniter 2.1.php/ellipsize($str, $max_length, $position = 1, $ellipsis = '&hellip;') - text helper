@@ -1,0 +1,1 @@
+ellipsize(#SELSTART#$str#SELEND#, <#$max_length#>, <#$position = 1#>, <#$ellipsis = '&hellip;'#>);

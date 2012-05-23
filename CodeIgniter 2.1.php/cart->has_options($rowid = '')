@@ -1,0 +1,1 @@
+cart->has_options(#SELSTART#$rowid = ''#SELEND#);

@@ -1,0 +1,1 @@
+word_wrap(#SELSTART#$str#SELEND#, <#$charlim = 76#>);

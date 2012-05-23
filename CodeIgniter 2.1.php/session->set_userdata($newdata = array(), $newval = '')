@@ -1,0 +1,1 @@
+session->set_userdata(#SELSTART#$newdata = array()#SELEND#, <#$newval = ''#>);

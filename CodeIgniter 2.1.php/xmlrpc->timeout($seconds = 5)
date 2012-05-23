@@ -1,0 +1,1 @@
+xmlrpc->timeout(#SELSTART#$seconds = 5#SELEND#);

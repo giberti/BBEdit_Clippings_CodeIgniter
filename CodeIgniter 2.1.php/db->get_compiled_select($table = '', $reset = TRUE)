@@ -1,0 +1,1 @@
+db->get_compiled_select(#SELSTART#$table = ''#SELEND#, <#$reset = TRUE#>);

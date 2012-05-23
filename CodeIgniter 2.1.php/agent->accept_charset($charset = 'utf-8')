@@ -1,0 +1,1 @@
+agent->accept_charset(#SELSTART#$charset = 'utf-8'#SELEND#);

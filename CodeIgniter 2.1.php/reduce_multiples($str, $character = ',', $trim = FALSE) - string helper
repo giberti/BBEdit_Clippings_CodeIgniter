@@ -1,0 +1,1 @@
+reduce_multiples(#SELSTART#$str#SELEND#, <#$character = ','#>, <#$trim = FALSE#>);

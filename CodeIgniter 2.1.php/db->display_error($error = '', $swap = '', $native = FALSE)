@@ -1,0 +1,1 @@
+db->display_error(#SELSTART#$error = ''#SELEND#, <#$swap = ''#>, <#$native = FALSE#>);

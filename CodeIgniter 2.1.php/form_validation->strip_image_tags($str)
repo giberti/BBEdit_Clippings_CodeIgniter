@@ -1,0 +1,1 @@
+form_validation->strip_image_tags(#SELSTART#$str#SELEND#);

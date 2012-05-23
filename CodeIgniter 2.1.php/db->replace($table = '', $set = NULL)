@@ -1,0 +1,1 @@
+db->replace(#SELSTART#$table = ''#SELEND#, <#$set = NULL#>);

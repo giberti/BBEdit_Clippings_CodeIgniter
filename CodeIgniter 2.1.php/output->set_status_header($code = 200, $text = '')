@@ -1,0 +1,1 @@
+output->set_status_header(#SELSTART#$code = 200#SELEND#, <#$text = ''#>);

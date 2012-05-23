@@ -1,0 +1,1 @@
+javascript->hide(#SELSTART#$element = 'this'#SELEND#, <#$speed = ''#>, <#$callback = ''#>);

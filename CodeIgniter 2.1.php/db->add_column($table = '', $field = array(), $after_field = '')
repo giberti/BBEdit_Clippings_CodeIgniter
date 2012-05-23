@@ -1,0 +1,1 @@
+db->add_column(#SELSTART#$table = ''#SELEND#, <#$field = array()#>, <#$after_field = ''#>);

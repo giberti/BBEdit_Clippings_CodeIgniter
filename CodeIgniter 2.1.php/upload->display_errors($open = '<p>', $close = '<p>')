@@ -1,0 +1,1 @@
+upload->display_errors(#SELSTART#$open = '<p>'#SELEND#, <#$close = '</p>'#>);

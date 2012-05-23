@@ -1,0 +1,1 @@
+javascript->toggleClass(#SELSTART#$element = 'this'#SELEND#, <#$class=''#>);

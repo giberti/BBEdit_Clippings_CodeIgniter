@@ -1,0 +1,1 @@
+delete_files(#SELSTART#$path#SELEND#, <#$del_dir = FALSE#>, <#$level = 0#>, <#$htdocs = FALSE#>);

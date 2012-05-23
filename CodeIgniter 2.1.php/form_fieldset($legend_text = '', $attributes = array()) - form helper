@@ -1,0 +1,1 @@
+form_fieldset(#SELSTART#$legend_text = ''#SELEND#, <#$attributes = array()#>);

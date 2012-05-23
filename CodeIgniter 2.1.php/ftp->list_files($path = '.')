@@ -1,0 +1,1 @@
+ftp->list_files(#SELSTART#$path = '.'#SELEND#);

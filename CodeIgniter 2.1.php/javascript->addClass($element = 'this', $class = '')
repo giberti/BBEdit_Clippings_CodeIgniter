@@ -1,0 +1,1 @@
+javascript->addClass(#SELSTART#$element = 'this'#SELEND#, <#$class = ''#>);

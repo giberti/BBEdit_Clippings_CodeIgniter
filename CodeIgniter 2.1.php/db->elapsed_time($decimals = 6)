@@ -1,0 +1,1 @@
+db->elapsed_time(#SELSTART#$decimals = 6#SELEND#);

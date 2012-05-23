@@ -1,0 +1,1 @@
+ftp->changedir(#SELSTART#$path = ''#SELEND#, <#supress_debug = FALSE#>);

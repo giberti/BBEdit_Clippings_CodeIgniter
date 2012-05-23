@@ -1,0 +1,1 @@
+uri->segment(#SELSTART#$n#SELEND#, <#$no_result = FALSE#>);

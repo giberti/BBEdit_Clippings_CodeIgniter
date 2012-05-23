@@ -1,0 +1,1 @@
+set_checkbox(#SELSTART#$field = ''#SELEND#, <#$value = ''#>, <#$default = FALSE#>);

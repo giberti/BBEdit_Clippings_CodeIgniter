@@ -1,0 +1,1 @@
+calendar->generate(#SELSTART#$year = ''#SELEND#, <#$month = ''#>, <#$data = array()#>);

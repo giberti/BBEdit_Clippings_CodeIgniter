@@ -1,0 +1,1 @@
+db->update_string(#SELSTART#$table#SELEND#, <#$data#>, <#$where#>);

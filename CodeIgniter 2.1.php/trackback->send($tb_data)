@@ -1,0 +1,1 @@
+trackback->send(#SELSTART#$tb_data#SELEND#);

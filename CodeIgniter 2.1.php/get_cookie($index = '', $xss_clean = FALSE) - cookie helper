@@ -1,0 +1,1 @@
+get_cookie(#SELSTART#$index = ''#SELEND#, <#$xss_clean = FALSE#>);

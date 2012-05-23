@@ -1,0 +1,1 @@
+output->enable_profiler(#SELSTART#$val = TRUE#SELEND#);

@@ -1,0 +1,1 @@
+db->not_like(#SELSTART#$field#SELEND#, <#$match = ''#>, <#$side = 'both'#>);

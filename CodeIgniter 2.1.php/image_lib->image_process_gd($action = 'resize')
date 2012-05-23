@@ -1,0 +1,1 @@
+image_lib->image_process_gd(#SELSTART#$action = 'resize'#SELEND#);

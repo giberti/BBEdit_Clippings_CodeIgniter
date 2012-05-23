@@ -1,0 +1,1 @@
+db->or_where_in(#SELSTART#$key = NULL#SELEND#, <#$values = NULL#>);

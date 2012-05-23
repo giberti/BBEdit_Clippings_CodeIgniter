@@ -1,0 +1,1 @@
+form_validation->max_length(#SELSTART#$str#SELEND#, <#$val#>);

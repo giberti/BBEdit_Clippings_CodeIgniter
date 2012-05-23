@@ -1,0 +1,1 @@
+table->set_heading(#SELSTART#$args = array()#SELEND#);

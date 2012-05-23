@@ -1,0 +1,1 @@
+db->protect_identifiers(#SELSTART#$item#SELEND#, <#$prefix_single = FALSE#>, <#$protect_identifiers = NULL#>, <#$field_exists = TRUE#>);

@@ -1,0 +1,1 @@
+nl2br_except_pre(#SELSTART#$str#SELEND#);

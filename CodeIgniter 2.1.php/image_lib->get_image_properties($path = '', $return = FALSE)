@@ -1,0 +1,1 @@
+image_lib->get_image_properties(#SELSTART#$path = ''#SELEND#, <#$return = FALSE#>);

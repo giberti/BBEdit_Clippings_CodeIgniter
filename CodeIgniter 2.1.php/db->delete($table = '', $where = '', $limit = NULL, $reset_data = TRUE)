@@ -1,0 +1,1 @@
+db->delete(#SELSTART#$table = ''#SELEND#, <#$where = ''#>, <#$limit = NULL#>, <#$reset_data = TRUE#>);

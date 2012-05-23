@@ -1,0 +1,1 @@
+loader->get_var(#SELSTART#$key#SELEND#);

@@ -1,0 +1,1 @@
+db->repair_table(#SELSTART#$table_name#SELEND#);

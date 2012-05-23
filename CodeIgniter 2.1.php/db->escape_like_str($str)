@@ -1,0 +1,1 @@
+db->escape_like_str(#SELSTART#$str#SELEND#);

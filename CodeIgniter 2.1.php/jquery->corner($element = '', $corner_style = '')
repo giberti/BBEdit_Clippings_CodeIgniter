@@ -1,0 +1,1 @@
+jquery->corner(#SELSTART#$element = ''#SELEND#, <#$corner_style = ''#>);

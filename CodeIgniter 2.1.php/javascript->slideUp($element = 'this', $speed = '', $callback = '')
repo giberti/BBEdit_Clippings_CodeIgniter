@@ -1,0 +1,1 @@
+javascript->slideUp(#SELSTART#$element = 'this'#SELEND#, <#$speed = ''#>, <#$callback = ''#>);

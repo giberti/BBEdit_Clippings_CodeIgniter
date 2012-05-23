@@ -1,0 +1,1 @@
+upload->set_max_width(#SELSTART#$n#SELEND#);

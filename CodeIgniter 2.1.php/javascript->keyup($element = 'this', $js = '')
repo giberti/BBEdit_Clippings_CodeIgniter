@@ -1,0 +1,1 @@
+javascript->keyup(#SELSTART#$element = 'this'#SELEND#, <#$js = ''#>);

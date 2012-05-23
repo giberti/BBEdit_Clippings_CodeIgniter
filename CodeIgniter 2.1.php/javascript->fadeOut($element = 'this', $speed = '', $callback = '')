@@ -1,0 +1,1 @@
+javascript->fadeOut(#SELSTART#$element = 'this'#SELEND#, <#$speed = ''#>, <#$callback = ''#>);

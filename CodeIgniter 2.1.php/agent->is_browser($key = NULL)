@@ -1,0 +1,1 @@
+agent->is_browser(#SELSTART#$key = NULL#SELEND#);

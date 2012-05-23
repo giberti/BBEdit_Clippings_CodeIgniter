@@ -1,0 +1,1 @@
+javascript->blur(#SELSTART#$element = 'this'#SELEND#, <#$js = ''#>);

@@ -1,0 +1,1 @@
+db->get(#SELSTART#$table = ''#SELEND#, <#$limit = null#>, <#$offset = null#>);

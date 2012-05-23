@@ -1,0 +1,1 @@
+db->database_exists(#SELSTART#$database_name#SELEND#);

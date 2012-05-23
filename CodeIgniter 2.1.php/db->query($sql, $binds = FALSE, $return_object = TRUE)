@@ -1,0 +1,1 @@
+db->query(#SELSTART#$sql#SELEND#, <#$binds = FALSE#>, <#$return_object = TRUE#>);

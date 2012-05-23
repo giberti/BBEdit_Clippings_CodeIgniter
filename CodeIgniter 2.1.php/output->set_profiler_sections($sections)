@@ -1,0 +1,1 @@
+output->set_profiler_sections(#SELSTART#$sections#SELEND#);

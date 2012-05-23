@@ -1,0 +1,1 @@
+form_validation->set_message(#SELSTART#$lang#SELEND#, <#$val = ''#>);

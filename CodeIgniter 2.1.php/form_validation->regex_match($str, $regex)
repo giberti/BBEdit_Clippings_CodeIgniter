@@ -1,0 +1,1 @@
+form_validation->regex_match(#SELSTART#$str#SELEND#, <#$regex#>);

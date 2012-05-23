@@ -1,0 +1,1 @@
+loader->add_package_path(#SELSTART#$path#SELEND#, <#$view_cascade=TRUE#>);

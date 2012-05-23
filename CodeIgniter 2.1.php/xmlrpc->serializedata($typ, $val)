@@ -1,0 +1,1 @@
+xmlrpc->serializedata(#SELSTART#$typ#SELEND#, <#$val#>);

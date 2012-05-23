@@ -1,0 +1,1 @@
+cart->update(#SELSTART#$items = array()#SELEND#);

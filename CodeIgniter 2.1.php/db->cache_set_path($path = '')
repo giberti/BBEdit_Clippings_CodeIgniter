@@ -1,0 +1,1 @@
+db->cache_set_path(#SELSTART#$path = ''#SELEND#);

@@ -1,0 +1,1 @@
+image_lib->image_display_gd(#SELSTART#$resource#SELEND#);

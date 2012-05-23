@@ -1,0 +1,1 @@
+mdate(#SELSTART#$datestr = ''#SELEND#, <#$time = ''#>);

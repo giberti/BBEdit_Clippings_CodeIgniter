@@ -1,0 +1,1 @@
+email->set_alt_message(#SELSTART#$str = ''#SELEND#);

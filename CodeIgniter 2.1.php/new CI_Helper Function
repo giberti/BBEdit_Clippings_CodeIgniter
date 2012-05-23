@@ -1,0 +1,15 @@
+#INDENT#// ------------------------------------------------------------------------
+
+if ( ! function_exists('#INSERTION#') )
+{
+	/**
+	 * Describe what this function does
+	 *
+	 * @param 
+	 * @return 
+	 */
+	function #INSERTION#()
+	{
+
+	}
+}

@@ -1,0 +1,1 @@
+encrypt->get_key(#SELSTART#$key = ''#SELEND#);

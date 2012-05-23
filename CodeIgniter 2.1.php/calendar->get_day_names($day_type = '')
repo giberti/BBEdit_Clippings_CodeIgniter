@@ -1,0 +1,1 @@
+calendar->get_day_names(#SELSTART#$day_type = ''#SELEND#);

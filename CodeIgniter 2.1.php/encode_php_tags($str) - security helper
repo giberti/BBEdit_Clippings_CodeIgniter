@@ -1,0 +1,1 @@
+encode_php_tags(#SELSTART#$str#SELEND#);

@@ -1,0 +1,1 @@
+exceptions->show_404(#SELSTART#$page = ''#SELEND#, <#$log_error = TRUE#>);

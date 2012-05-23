@@ -1,0 +1,1 @@
+$result->row(#SELSTART#$n = 0#SELEND#, <#$type = 'object'#>);

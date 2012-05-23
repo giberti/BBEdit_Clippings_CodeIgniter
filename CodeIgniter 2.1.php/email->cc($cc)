@@ -1,0 +1,1 @@
+email->cc(#SELSTART#$cc#SELEND#);

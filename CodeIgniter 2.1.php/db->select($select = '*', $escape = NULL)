@@ -1,0 +1,1 @@
+db->select(#SELSTART#$select = '*'#SELEND#, <#$escape = NULL#>);

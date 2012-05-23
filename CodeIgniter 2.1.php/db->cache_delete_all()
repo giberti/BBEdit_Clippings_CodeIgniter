@@ -1,0 +1,1 @@
+db->cache_delete_all();#SELSTART##SELEND#

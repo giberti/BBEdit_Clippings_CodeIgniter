@@ -1,0 +1,1 @@
+xmlrpc->decode_message(#SELSTART#$param#SELEND#);

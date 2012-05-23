@@ -1,0 +1,1 @@
+exceptions->show_error(#SELSTART#$heading#SELEND#, <#$message#>, <#$template = 'error_general'#>, <#$status_code = 500#>);

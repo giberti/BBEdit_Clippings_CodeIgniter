@@ -1,0 +1,1 @@
+auto_link(#SELSTART#$str#SELEND#, <#$type = 'both'#>, <#$popup = FALSE#>);

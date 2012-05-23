@@ -1,0 +1,1 @@
+show_error(#SELSTART#$message#SELEND#, <#$status_code = 500#>, <#$heading = 'An Error Was Encountered'#>);

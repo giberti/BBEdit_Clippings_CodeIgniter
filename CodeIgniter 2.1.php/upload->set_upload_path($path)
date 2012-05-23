@@ -1,0 +1,1 @@
+upload->set_upload_path(#SELSTART#$path#SELEND#);

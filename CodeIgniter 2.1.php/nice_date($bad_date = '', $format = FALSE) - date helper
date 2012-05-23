@@ -1,0 +1,1 @@
+nice_date(#SELSTART#$bad_date = '#SELEND#', <#$format = FALSE#>);

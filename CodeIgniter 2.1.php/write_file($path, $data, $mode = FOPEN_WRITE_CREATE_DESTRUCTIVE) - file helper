@@ -1,0 +1,1 @@
+write_file(#SELSTART#$path#SELEND#, <#$data#>, <#$mode = FOPEN_WRITE_CREATE_DESTRUCTIVE#>);

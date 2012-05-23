@@ -1,0 +1,1 @@
+form_reset(#SELSTART#$data = ''#SELEND#, <#$value = ''#>, <#$extra = ''#>);

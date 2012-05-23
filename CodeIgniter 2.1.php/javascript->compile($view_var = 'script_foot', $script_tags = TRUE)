@@ -1,0 +1,1 @@
+javascript->compile(#SELSTART#$view_var = 'script_foot'#SELEND#, <#$script_tags = TRUE#>);

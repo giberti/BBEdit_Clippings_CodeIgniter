@@ -1,0 +1,1 @@
+db->list_tables(#SELSTART#$constrain_by_prefix = FALSE#SELEND#);

@@ -1,0 +1,1 @@
+calendar->get_total_days(#SELSTART#$month#SELEND#, <#$year#>);

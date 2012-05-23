@@ -1,0 +1,1 @@
+javascript->mouseout(#SELSTART#$element = 'this'#SELEND#, <#$js = ''#>);

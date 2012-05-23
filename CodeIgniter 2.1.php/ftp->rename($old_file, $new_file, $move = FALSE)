@@ -1,0 +1,1 @@
+ftp->rename(#SELSTART#$old_file#SELEND#, <#$new_file#>, <#$move = FALSE#>);

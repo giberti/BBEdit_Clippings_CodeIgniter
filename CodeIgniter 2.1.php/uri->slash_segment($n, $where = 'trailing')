@@ -1,0 +1,1 @@
+uri->slash_segment(#SELSTART#$n#SELEND#, <#$where = 'trailing'#>);

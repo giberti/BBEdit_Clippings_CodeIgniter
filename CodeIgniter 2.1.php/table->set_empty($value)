@@ -1,0 +1,1 @@
+table->set_empty(#SELSTART#$value#SELEND#);

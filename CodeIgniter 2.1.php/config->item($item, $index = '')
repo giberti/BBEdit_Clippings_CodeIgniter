@@ -1,0 +1,1 @@
+config->item(#SELSTART#$item#SELEND#, <#$index = ''#>);

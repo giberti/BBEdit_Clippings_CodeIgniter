@@ -1,0 +1,1 @@
+ftp->chmod(#SELSTART#$path#SELEND#, <#$perm#>);

@@ -1,0 +1,1 @@
+loader->remove_package_path(#SELSTART#$path = ''#SELEND#, <#$remove_config_path = TRUE#>);

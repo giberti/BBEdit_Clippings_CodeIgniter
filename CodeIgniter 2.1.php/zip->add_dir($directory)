@@ -1,0 +1,1 @@
+zip->add_dir(#SELSTART#$directory#SELEND#);

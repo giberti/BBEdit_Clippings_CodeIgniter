@@ -1,0 +1,1 @@
+db->insert(#SELSTART#$table = ''#SELEND#, <#$set = NULL#>);

@@ -1,0 +1,1 @@
+javascript->external(#SELSTART#$external_file = ''#SELEND#, <#$relative = FALSE#>);

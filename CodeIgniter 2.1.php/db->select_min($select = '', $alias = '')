@@ -1,0 +1,1 @@
+db->select_min(#SELSTART#$select = ''#SELEND#, <#$alias = ''#>);

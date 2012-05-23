@@ -1,0 +1,1 @@
+calendar->initialize(#SELSTART#$config = array()#SELEND#);

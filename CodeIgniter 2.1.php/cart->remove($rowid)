@@ -1,0 +1,1 @@
+cart->remove(#SELSTART#$rowid#SELEND#);

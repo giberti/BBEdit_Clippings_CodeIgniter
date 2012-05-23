@@ -1,0 +1,1 @@
+zip->read_dir(#SELSTART#$path#SELEND#, <#$preserve_filepath = TRUE#>, <#$root_path = NULL#>);

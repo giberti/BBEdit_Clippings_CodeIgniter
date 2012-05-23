@@ -1,0 +1,1 @@
+$result->custom_row_object(#SELSTART#$n#SELEND#, <#$type#>);

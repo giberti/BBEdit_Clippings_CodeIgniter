@@ -1,0 +1,1 @@
+javascript->generate_json(#SELSTART#$result = NULL#SELEND#, <#$match_array_type = FALSE#>);

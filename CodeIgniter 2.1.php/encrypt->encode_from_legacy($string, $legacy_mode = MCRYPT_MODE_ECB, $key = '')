@@ -1,0 +1,1 @@
+encrypt->encode_from_legacy(#SELSTART#$string#SELEND#, <#$legacy_mode = MCRYPT_MODE_ECB#>, <#$key = ''#>);

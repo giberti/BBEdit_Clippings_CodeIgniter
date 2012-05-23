@@ -1,0 +1,1 @@
+exceptions->log_exception(#SELSTART#$severity#SELEND#, <#$message#>, <#$filepath#>, <#$line#>);

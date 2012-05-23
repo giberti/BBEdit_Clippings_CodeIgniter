@@ -1,0 +1,1 @@
+ftp->upload(#SELSTART#$locpath#SELEND#, <#$rempath#>, <#$mode = 'auto'#>, <#$permissions = NULL#>);

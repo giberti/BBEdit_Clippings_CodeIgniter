@@ -1,0 +1,1 @@
+do_hash(#SELSTART#$str#SELEND#, <#$type = 'sha1'#>);

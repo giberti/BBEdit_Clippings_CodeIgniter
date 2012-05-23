@@ -1,0 +1,1 @@
+db->drop_column(#SELSTART#$table = ''#SELEND#, <#$column_name = ''#>);

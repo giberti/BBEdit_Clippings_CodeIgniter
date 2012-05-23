@@ -1,0 +1,1 @@
+random_string(#SELSTART#$type = 'alnum'#SELEND#, <#$len = 8#>);

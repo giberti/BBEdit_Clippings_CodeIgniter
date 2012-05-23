@@ -1,0 +1,1 @@
+table->set_template(#SELSTART#$template#SELEND#);

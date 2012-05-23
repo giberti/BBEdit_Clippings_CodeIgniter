@@ -1,0 +1,1 @@
+db->dbprefix(#SELSTART#$table = ''#SELEND#);

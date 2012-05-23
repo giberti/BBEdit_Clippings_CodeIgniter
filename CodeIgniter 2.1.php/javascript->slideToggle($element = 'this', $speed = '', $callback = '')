@@ -1,0 +1,1 @@
+javascript->slideToggle(#SELSTART#$element = 'this'#SELEND#, <#$speed = ''#>, <#$callback = ''#>);

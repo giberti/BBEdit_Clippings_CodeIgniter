@@ -1,0 +1,1 @@
+db->update(#SELSTART#$table = ''#SELEND#, <#$set = NULL#>, <#$where = NULL#>, <#$limit = NULL#>);

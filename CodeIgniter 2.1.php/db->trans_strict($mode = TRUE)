@@ -1,0 +1,1 @@
+db->trans_strict(#SELSTART#$mode = TRUE#SELEND#);

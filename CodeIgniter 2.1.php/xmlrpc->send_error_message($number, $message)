@@ -1,0 +1,1 @@
+xmlrpc->send_error_message(#SELSTART#$number#SELEND#, <#$message#>);

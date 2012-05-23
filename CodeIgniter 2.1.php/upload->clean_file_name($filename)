@@ -1,0 +1,1 @@
+upload->clean_file_name(#SELSTART#$filename#SELEND#);

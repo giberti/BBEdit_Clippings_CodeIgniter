@@ -1,0 +1,1 @@
+xmlrpcs->add_to_map(#SELSTART#$methodname#SELEND#, <#$function#>, <#$sig#>, <#$doc#>);

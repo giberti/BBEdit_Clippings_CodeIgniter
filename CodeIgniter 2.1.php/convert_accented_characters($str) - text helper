@@ -1,0 +1,1 @@
+convert_accented_characters(#SELSTART#$str#SELEND#);

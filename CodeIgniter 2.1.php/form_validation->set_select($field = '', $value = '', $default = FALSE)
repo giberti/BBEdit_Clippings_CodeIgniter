@@ -1,0 +1,1 @@
+form_validation->set_select(#SELSTART#$field = ''#SELEND#, <#$value = ''#>, <#$default = FALSE#>);

@@ -1,0 +1,1 @@
+get_clickable_smileys(#SELSTART#$image_url#SELEND#, <#$alias = ''#>, <#$smileys = NULL#>);

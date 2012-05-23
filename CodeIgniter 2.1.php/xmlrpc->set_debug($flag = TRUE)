@@ -1,0 +1,1 @@
+xmlrpc->set_debug(#SELSTART#$flag = TRUE#SELEND#);

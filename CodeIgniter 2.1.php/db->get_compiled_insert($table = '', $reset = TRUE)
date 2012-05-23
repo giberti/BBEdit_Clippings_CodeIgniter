@@ -1,0 +1,1 @@
+db->get_compiled_insert(#SELSTART#$table = ''#SELEND#, <#$reset = TRUE#>);

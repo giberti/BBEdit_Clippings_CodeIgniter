@@ -1,0 +1,1 @@
+lang(#SELSTART#$line#SELEND#, <#$id = ''#>);

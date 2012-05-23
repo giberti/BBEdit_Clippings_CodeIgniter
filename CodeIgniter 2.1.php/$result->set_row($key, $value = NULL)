@@ -1,0 +1,1 @@
+$result->set_row(#SELSTART#$key#SELEND#, <#$value = NULL#>);

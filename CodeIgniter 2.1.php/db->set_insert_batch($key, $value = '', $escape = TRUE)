@@ -1,0 +1,1 @@
+db->set_insert_batch(#SELSTART#$key#SELEND#, <#$value = ''#>, <#$escape = TRUE#>);

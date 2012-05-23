@@ -1,0 +1,1 @@
+pagination->initialize(#SELSTART#$params = array()#SELEND#);

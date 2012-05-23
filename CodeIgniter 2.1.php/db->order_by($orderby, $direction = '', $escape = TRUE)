@@ -1,0 +1,1 @@
+db->order_by(#SELSTART#$orderby#SELEND#, <#$direction = ''#>, <#$escape = TRUE#>);

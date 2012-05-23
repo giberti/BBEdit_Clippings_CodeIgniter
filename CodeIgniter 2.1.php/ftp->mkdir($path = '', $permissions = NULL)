@@ -1,0 +1,1 @@
+ftp->mkdir(#SELSTART#$path = ''#SELEND#, <#$permissions = NULL#>);

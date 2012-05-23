@@ -1,0 +1,1 @@
+table->set_caption(#SELSTART#$caption#SELEND#);

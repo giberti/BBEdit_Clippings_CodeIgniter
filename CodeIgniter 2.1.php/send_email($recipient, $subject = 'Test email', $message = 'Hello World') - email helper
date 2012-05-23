@@ -1,0 +1,1 @@
+send_email(#SELSTART#$recipient#SELEND#, <#$subject = 'Test email'#>, <#$message = 'Hello World'#>);

@@ -1,0 +1,1 @@
+form_validation->alpha_numeric(#SELSTART#$str#SELEND#);

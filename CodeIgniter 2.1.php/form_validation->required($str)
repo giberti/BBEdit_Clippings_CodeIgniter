@@ -1,0 +1,1 @@
+form_validation->required(#SELSTART#$str#SELEND#);

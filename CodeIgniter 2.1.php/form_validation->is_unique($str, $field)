@@ -1,0 +1,1 @@
+form_validation->is_unique(#SELSTART#$str#SELEND#, <#$field#>);

@@ -1,0 +1,1 @@
+form_validation->greater_than(#SELSTART#$str#SELEND#, <#$min#>);

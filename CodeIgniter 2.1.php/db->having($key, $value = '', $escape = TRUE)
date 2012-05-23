@@ -1,0 +1,1 @@
+db->having(#SELSTART#$key#SELEND#, <#$value = ''#>, <#$escape = TRUE#>);

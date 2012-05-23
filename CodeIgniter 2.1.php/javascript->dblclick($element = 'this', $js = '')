@@ -1,0 +1,1 @@
+javascript->dblclick(#SELSTART#$element = 'this'#SELEND#, <#$js = ''#>);

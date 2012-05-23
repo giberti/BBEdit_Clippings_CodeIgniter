@@ -1,0 +1,1 @@
+xml_convert(#SELSTART#$str#SELEND#, <#$protect_all = FALSE#>);

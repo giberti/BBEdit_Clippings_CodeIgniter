@@ -1,0 +1,1 @@
+$result->first_row(#SELSTART#$type = 'object'#SELEND#);

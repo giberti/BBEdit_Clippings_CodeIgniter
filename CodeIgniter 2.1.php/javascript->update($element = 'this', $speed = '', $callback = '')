@@ -1,0 +1,1 @@
+javascript->update(#SELSTART#$element = 'this'#SELEND#, <#$speed = ''#>, <#$callback = ''#>);

@@ -1,0 +1,1 @@
+form_validation->valid_emails(#SELSTART#$str#SELEND#);

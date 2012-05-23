@@ -1,0 +1,1 @@
+javascript->mouseover(#SELSTART#$element = 'this'#SELEND#, <#$js = ''#>);

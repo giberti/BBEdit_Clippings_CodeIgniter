@@ -1,0 +1,1 @@
+directory_map(#SELSTART#$source_dir#SELEND#, <#$directory_depth = 0#>, <#$hidden = FALSE#>);

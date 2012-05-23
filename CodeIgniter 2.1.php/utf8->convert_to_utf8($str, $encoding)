@@ -1,0 +1,1 @@
+utf8->convert_to_utf8(#SELSTART#$str#SELEND#, <#$encoding#>);

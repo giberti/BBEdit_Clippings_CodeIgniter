@@ -1,0 +1,1 @@
+db->create_table(#SELSTART#$table = ''#SELEND#, <#$if_not_exists = FALSE#>);

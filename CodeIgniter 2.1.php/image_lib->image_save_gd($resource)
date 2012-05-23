@@ -1,0 +1,1 @@
+image_lib->image_save_gd(#SELSTART#$resource#SELEND#);

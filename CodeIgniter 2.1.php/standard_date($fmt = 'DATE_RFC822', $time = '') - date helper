@@ -1,0 +1,1 @@
+standard_date(#SELSTART#$fmt = 'DATE_RFC822'#SELEND#, <#$time = ''#>);

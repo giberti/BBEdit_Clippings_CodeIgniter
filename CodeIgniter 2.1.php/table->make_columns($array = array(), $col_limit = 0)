@@ -1,0 +1,1 @@
+table->make_columns(#SELSTART#$array = array()#SELEND#, <#$col_limit = 0#>);

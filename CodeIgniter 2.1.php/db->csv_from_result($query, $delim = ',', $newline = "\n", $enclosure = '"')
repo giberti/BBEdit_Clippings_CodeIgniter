@@ -1,0 +1,1 @@
+db->csv_from_result(#SELSTART#$query#SELEND#, <#$delim = ','#>, <#$newline = "\n"#>, <#$enclosure = '"'#>);

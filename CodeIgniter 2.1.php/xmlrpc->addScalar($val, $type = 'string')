@@ -1,0 +1,1 @@
+xmlrpc->addScalar(#SELSTART#$val#SELEND#, <#$type = 'string'#>);

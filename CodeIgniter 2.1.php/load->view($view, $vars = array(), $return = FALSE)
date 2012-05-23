@@ -1,0 +1,1 @@
+loader->view(#SELSTART#$view#SELEND#, <#$vars = array()#>, <#$return = FALSE#>);

@@ -1,0 +1,1 @@
+input->get(#SELSTART#$index = NULL#SELEND#, <#$xss_clean = FALSE#>);

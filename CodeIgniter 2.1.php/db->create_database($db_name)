@@ -1,0 +1,1 @@
+db->create_database(#SELSTART#db_name#SELEND#);

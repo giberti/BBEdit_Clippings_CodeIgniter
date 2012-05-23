@@ -1,0 +1,1 @@
+config->base_url(#SELSTART#$uri = ''#SELEND#);

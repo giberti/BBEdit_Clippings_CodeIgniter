@@ -1,0 +1,1 @@
+email->attach(#SELSTART#$filename#SELEND#, <#$disposition = ''#>, <#$newname = NULL#>, <#$mime = ''#>);

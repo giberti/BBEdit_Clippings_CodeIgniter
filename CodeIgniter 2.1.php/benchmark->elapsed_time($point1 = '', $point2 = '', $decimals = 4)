@@ -1,0 +1,1 @@
+benchmark->elapsed_time(#SELSTART#$point1 = ''#SELEND#, <#$point2 = ''#>, <#$decimals = 4#>);

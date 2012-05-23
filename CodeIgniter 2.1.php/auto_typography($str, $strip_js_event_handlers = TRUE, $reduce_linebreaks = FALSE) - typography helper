@@ -1,0 +1,1 @@
+auto_typography(#SELSTART#$str#SELEND#, <#$strip_js_event_handlers = TRUE#>, <#$reduce_linebreaks = FALSE#>);

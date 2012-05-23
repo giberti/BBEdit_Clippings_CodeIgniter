@@ -1,0 +1,1 @@
+get_dir_file_info(#SELSTART#$source_dir#SELEND#, <#$top_level_only = TRUE#>, <#$_recursion = FALSE#>);

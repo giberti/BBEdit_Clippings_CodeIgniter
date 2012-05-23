@@ -1,0 +1,1 @@
+db->db_set_charset(#SELSTART#$charset#SELEND#);

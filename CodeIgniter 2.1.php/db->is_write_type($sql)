@@ -1,0 +1,1 @@
+db->is_write_type(#SELSTART#$sql#SELEND#);

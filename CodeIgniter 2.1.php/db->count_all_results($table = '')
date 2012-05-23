@@ -1,0 +1,1 @@
+db->count_all_results(#SELSTART#$table = ''#SELEND#);

@@ -1,0 +1,1 @@
+db->simple_query(#SELSTART#$sql#SELEND#);

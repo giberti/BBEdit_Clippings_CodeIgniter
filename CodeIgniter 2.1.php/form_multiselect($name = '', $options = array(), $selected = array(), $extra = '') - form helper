@@ -1,0 +1,1 @@
+form_multiselect(#SELSTART#$name = ''#SELEND#, <#$options = array()#>, <#$selected = array()#>, <#$extra = ''#>);

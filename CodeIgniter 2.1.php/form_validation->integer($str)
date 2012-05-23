@@ -1,0 +1,1 @@
+form_validation->integer(#SELSTART#$str#SELEND#);

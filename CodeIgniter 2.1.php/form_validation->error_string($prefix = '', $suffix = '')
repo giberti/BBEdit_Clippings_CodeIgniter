@@ -1,0 +1,1 @@
+form_validation->error_string(#SELSTART#$prefix = ''#SELEND#, <#$suffix = ''#>);

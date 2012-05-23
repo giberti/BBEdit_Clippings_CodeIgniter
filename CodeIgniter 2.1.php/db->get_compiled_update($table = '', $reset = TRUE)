@@ -1,0 +1,1 @@
+db->get_compiled_update(#SELSTART#$table = ''#SELEND#, <#$reset = TRUE#>);

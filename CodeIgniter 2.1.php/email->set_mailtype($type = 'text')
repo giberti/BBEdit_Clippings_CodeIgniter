@@ -1,0 +1,1 @@
+email->set_mailtype(#SELSTART#$type = 'text'#SELEND#);

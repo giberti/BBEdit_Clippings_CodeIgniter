@@ -1,0 +1,1 @@
+input->get_request_header(#SELSTART#$index#SELEND#, <#$xss_clean = FALSE#>);

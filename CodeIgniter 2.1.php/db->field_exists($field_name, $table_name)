@@ -1,0 +1,1 @@
+db->field_exists(#SELSTART#$field_name#SELEND#, <#$table_name#>);

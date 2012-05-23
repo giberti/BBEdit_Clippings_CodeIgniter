@@ -1,0 +1,1 @@
+highlight_phrase(#SELSTART#$str#SELEND#, <#$phrase#>, <#$tag_open = '<strong>'#>, <#$tag_close = '</strong>'#>);

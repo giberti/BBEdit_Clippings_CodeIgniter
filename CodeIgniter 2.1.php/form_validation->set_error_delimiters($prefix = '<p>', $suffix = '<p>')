@@ -1,0 +1,1 @@
+form_validation->set_error_delimiters(#SELSTART#$prefix = '<p>'#SELEND#, <#$suffix = '</p>'#>);

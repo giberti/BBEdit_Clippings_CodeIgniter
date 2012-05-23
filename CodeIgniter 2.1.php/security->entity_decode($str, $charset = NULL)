@@ -1,0 +1,1 @@
+security->entity_decode(#SELSTART#$str#SELEND#, <#$charset = NULL#>);

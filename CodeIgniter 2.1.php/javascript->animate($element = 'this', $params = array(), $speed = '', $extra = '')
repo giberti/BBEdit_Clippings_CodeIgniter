@@ -1,0 +1,1 @@
+javascript->animate(#SELSTART#$element = 'this'#SELEND#, <#$params = array()#>, <#$speed = ''#>, <#$extra = ''#>);

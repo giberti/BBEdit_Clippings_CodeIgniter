@@ -1,0 +1,1 @@
+form_validation->xss_clean(#SELSTART#$str#SELEND#);

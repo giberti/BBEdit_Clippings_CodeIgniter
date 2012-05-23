@@ -1,0 +1,1 @@
+ftp->mirror(#SELSTART#$locpath#SELEND#, <#$rempath#>);

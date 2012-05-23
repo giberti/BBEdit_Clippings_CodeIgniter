@@ -1,0 +1,1 @@
+ftp->delete_file(#SELSTART#$filepath#SELEND#);
