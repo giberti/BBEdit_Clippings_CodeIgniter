@@ -20,10 +20,10 @@ Useful Features
  * Automatically highlights the first parameter and provides placeholders for each subsequent parameter making navigation easy.
  * Includes document stubs for common documents including Controller, Model, View and Helpers.
 Start a new .php file and type:
-        <?php new
+	<?php new
  * Also provided: Clippings for creating phpDocumentor blocks to ensure your CodeIgniter files are easy for those who come after you.
 Within your document type: 
-		phpDocumentor 
+	phpDocumentor 
 
 License
 ================
